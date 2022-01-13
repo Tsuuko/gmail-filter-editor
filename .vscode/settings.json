@@ -31,5 +31,12 @@
   "eslint.packageManager": "yarn",
   "typescript.enablePromptUseWorkspaceTsdk": true,
   "cSpell.ignoreRegExpList": ["[０-９Ａ-Ｚａ-ｚぁ-んァ-ヶ亜-熙纊-黑]+"],
-  "cSpell.words": ["preinstall", "Tsuuko", "typesync", "Vite", "vitejs"]
+  "cSpell.words": [
+    "Chakra",
+    "preinstall",
+    "Tsuuko",
+    "typesync",
+    "Vite",
+    "vitejs"
+  ]
 }
