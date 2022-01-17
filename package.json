@@ -19,10 +19,15 @@
     "framer-motion": "^5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-icons": "^4.3.1"
+    "react-icons": "^4.3.1",
+    "react-script-hook": "^1.6.0"
   },
   "devDependencies": {
     "@tsconfig/vite-react": "^1.0.0",
+    "@types/gapi": "^0.0.41",
+    "@types/gapi.auth2": "^0.0.55",
+    "@types/gapi.client": "^1.0.5",
+    "@types/gapi.client.gmail": "^1.0.3",
     "@types/node": "^16",
     "@types/react": "^17.0.33",
     "@types/react-dom": "^17.0.10",

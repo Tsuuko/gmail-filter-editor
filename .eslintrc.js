@@ -64,6 +64,7 @@ module.exports = {
       },
     ],
     'react/jsx-props-no-spreading': 'off',
+    'react/prop-types': 'off',
     // eslint-plugin-simple-import-sort
     // https://github.com/lydell/eslint-plugin-simple-import-sort
     'simple-import-sort/imports': 'error',
